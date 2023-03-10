@@ -2,13 +2,13 @@
 
 # 7Phase Flasher
 
-The 7Phase flasher is a simple electronic circuit for beginner. The circuit can be solderd on a strip grid board.
+The 7Phase flasher is a simple electronic circuit for beginner. The circuit can be solderd on a strip grid board and needs a 9V block battery.
 
 ![7PhaseFlasher](./7PB.png)
 
 # Data
 
-* [Manufacturing Data](./Manufacturing_7PB.pdf)
+* [Manufacturing Data](./7PB.pdf)
 * [Schematic](./Schematic.pdf)
 * [Lochmaster Layout Top](./LM_Top.pdf)
 * [Lochmaster Layout Bottom](./LM_Bottom.pdf)
